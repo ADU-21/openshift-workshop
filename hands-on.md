@@ -37,7 +37,7 @@ In this section, We are going to create a nodejs project with mongodb in OpenShi
 
 - clone configuration files
 
-  `git clone https://github.com/gmlove/openshift-workshop.git`
+  `git clone https://github.com/adu-21/openshift-workshop.git`
 
   Files in this repo will be used later.
 
